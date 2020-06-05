@@ -1,0 +1,2 @@
+[lfs]
+url = "http://artifactory1.tsuyo.org:8081/artifactory/api/lfs/gitlfs-local"
